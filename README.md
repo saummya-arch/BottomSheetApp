@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/saummya-arch/BottomSheetApp/blob/master/bottom/pic1.jpg" width=350 height=750>
+<img src="https://github.com/saummya-arch/BottomSheetApp/blob/master/bottom/pic2.jpg" width=350 height=750>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
